@@ -8,5 +8,6 @@ import App from './App';
 document.addEventListener('DOMContentLoaded', () => {
   const container = document.getElementById('reactAnchor');
 
-  ReactDom.render(<App />, container)
+  ReactDom.render(<App/>, container)
 });
+
